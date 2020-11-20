@@ -13,7 +13,7 @@ i) Multiple classes such as Process,Process_creator,Scheduler,Simulator are defi
   
   simulator for simulating the algos.
 
-ii) Functions are defined and used in process creator for the algorithms.
+ii) Functions are defined and used in process_creator for the algorithms.
 
 iii) In special case of RR algo time quantum is to be given by the user.
 
